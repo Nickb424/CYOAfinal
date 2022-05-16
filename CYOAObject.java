@@ -1,3 +1,4 @@
+
 public class CYOAObject {
 	private String name;
 	
@@ -41,7 +42,7 @@ public class CYOAObject {
 	}
 	public String finalChoice2() {
 		// TODO Auto-generated method stub
-		return "When you are brought to the guild you start seeing the corruption in the guild, but you don’t see the good in siding with the pure evil doers."
+		return "When you are brought to the guild you start seeing the corruption in the guild, but you donâ€™t see the good in siding with the pure evil doers."
 				+ " After gaining all the powers you need and all the training at the guild you then self vanish and disappear going rogue helping those in need and fighting evil while making your character as silent to the world than making yourself known and not accepting forced guild spread oif their power to.";
 	}
 	public String otherChoice3() {
@@ -54,43 +55,11 @@ public class CYOAObject {
 	}
 	public String finalchoice4() {
 		// TODO Auto-generated method stub
-		return "After pursuing the life of good and then reaching the point to throw away the sword of Eons or to vanquish your sister. "
-				+ "The livelihood of Jack lives within the blade and then as you stare at its piercing point you get whispered incantations and are automatically corrupted and then the soul of Jack Of Blades harnesses your body and so forth destroys the rest of the family you had left leaving the world to fight the pure evil corruption.";
+		return "After pursuing the life of good and then reaching the point to throw away the sword of Eons or to vanquish your sister. The livelihood of Jack lives within the blade and then as you stare at its piercing point you get whispered incantations and are automatically corrupted and then the soul of Jack Of Blades harnesses your body and so forth destroys the rest of the family you had left leaving the world to fight the pure evil corruption.";
 	}
 	public String otherchoices4() {
 		// TODO Auto-generated method stub
 		return "You decide the hero should not be the evil ruler of these pure lands";
 	}
-	public String ending() {
-		// TODO Auto-generated method stub
-		return "You are fighting in the Arena as the hero you have gotten bored of the sitting life"
-				+ " and want to fight last time and so you have a choice of 4 different enemies with 4 different outcomes?"
-				+ "((3)Nostro, (4)Dragon, (5)wraith, (6)bandit King)";
-				 
-	}
-	public String scene2choice1() {
-		// TODO Auto-generated method stub
-		return "You choose to fight the ill fated Nostro. Nostro was once a hero of the guild and fell in battle against The Jack Of Blades. "
-				+ "He forever becomes a tormented soul waiting to be freed by killing a hero of great power which is you. After your hard fought battle against Nostro. His soul leaves his body and his cursed is lifted not realizing his torment needed to be ended by a hero ending his suffering. You gain 2,000 gold and 150 renown";
-	}
-	public String scene2choice2() {
-		// TODO Auto-generated method stub
-		return "You choose to fight the dragon, a creature of extreme power and mythical abilities that even the mightiest will users fear the most."
-				+ " Ultimately the fight is short lived you get your head bitten off and the hero’s story does not continue after the arena forever leaving the hero’s story being untold(True Ending FAILED).";
-	}
-	public String scene2choice3() {
-		// TODO Auto-generated method stub
-		return "You choose to fight the wraith, a ghost that forever haunts the graves of corrupted will users. "
-				+ "They possess the ability to steal away from you. As the fight continues you feel your life force slowly fade away, but in the grand calculations of the universe you use an untold spell that barely anyone knows to make the ghosts a physical force to fight and ultimately you are victorious. You gain 3,500 gold and 300 renown.";
-				
-	}
-	public String scene2choice4() {
-		// TODO Auto-generated method stub
-		return "You choose to fight the bandit King of the Bandit Clan. "
-				+ "These group of people torment and pillage and raid villages for their own profit. They like to work on their own, but the bandit kind has come to the arena to challenge the hero and see how good everyone says he really is. The fight does not last long because you ultimately destroy all the bandits with the will power you gained over the years and it is an easy fight. (Your reward is the bandit King Clans camp).";
-				
-				
-	}
 }
-
 
